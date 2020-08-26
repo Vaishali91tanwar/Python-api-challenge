@@ -18,5 +18,6 @@ Using Matplotlib created a series of scatter plots exploring the following relat
 Furthermore the linear regression aspect was analysed for the previously generated scatter plots only this time separating them into Northern and Southern hemisphere.
 
 The weather analysis performed was then used for planning an ideal vacation. Using jupyter gmaps and Google Places API, a heatmap was generated using gmaps displaying the humidity level of each city selected for weather analysis.<br><br>
-<img src="WeatherPy\heatmap.png"><br>
+<img src="WeatherPy/heatmap_cities.PNG"><br><br>
 After narrowing down the dataframe for an ideal weather condition Google Places API was used to search for the first hotel for each city located within 5000 meters of the coordinates and the hotels were pinned on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+<img src="WeatherPy/hotels.PNG">
