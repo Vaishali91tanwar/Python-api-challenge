@@ -11,9 +11,16 @@ Created a Python script to pull in the weather data using OpenWeather API of 500
 Using Matplotlib created a series of scatter plots exploring the following relationships:
 
 1. Temperature (F) vs. Latitude
+<img src="WeatherPy/output_data/Img1.png">
+
 2. Humidity (%) vs. Latitude
+<img src="WeatherPy/output_data/Img2.png">
+
 3. Cloudiness (%) vs. Latitude
+<img src="WeatherPy/output_data/Img3.png">
+
 4. Wind Speed (mph) vs. Latitude
+<img src="WeatherPy/output_data/Img4.png">
 
 Furthermore the linear regression aspect was analysed for the previously generated scatter plots only this time separating them into Northern and Southern hemisphere.
 
